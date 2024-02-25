@@ -1,0 +1,2 @@
+# PromptAGI
+Prompt for AGI
